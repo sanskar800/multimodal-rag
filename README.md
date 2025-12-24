@@ -55,12 +55,7 @@ flowchart TB
         PARSE --> RESPONSE[Structured Response<br/>+ Sources + Confidence]
     end
     
-    style PDF fill:#e1f5ff
-    style LLAMA_T fill:#fff4e6
-    style LLAMA_TB fill:#fff4e6
-    style GEMINI fill:#e8f5e9
-    style CHROMA fill:#f3e5f5
-    style RESPONSE fill:#e1f5ff
+
 ```
 
 ## 🔧 Tech Stack
