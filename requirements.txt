@@ -1,0 +1,25 @@
+# Core dependencies
+unstructured[all-docs]
+chromadb
+groq
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+PyMuPDF
+google-generativeai
+sentence-transformers
+
+# Image and PDF processing
+pillow
+pypdf
+
+# Data handling and parsing
+pydantic
+python-dotenv
+pandas
+
+# Utilities
+tqdm
+
